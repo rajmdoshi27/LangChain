@@ -18,7 +18,7 @@ RockyBot is a user-friendly news research tool designed for effortless informati
 1.Clone this repository to your local machine using:
 
 ```bash
-  https://github.com/rajmdoshi27/LangChain.git
+  git clone https://github.com/rajmdoshi27/LangChain.git
 ```
 2.Navigate to the project directory:
 
